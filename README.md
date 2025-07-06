@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 🌍 International Health Organization (IHO) –  Outbreak Response Platform
 
 **International Health Organization (IHO)** is a fictitious open-source project designed to showcase how artificial intelligence, machine learning, and modern web technologies can be used to strengthen global outbreak response systems. IHO allows for real-time symptom tracking, intelligent forecasting, and public health reporting to aid in managing infectious disease outbreaks like COVID-19.
@@ -123,6 +124,8 @@ The International Health Organization (IHO) project is a fictional, educational 
 
 
 =======
+=======
+>>>>>>> ef942d5a7ff6088648f7e5b9423f743edcc4cfe5
 
 # 🌍 Negusu Worku Gebrmichael
 
@@ -228,4 +231,7 @@ Saddened by the recent loss of our beloved star Diogo Jota — may he rest in pe
 🌐 LinkedIn (replace with actual)
 
 🧑‍💻 GitHub
+<<<<<<< HEAD
 >>>>>>> ef942d5 (Modified readme.md)
+=======
+>>>>>>> ef942d5a7ff6088648f7e5b9423f743edcc4cfe5
